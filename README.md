@@ -21,7 +21,7 @@ To run this project, you need to have Python installed on your system. Additiona
 ### Installation Steps
 1. Clone this repository:
     ```sh
-    git clone https://github.com/rojas-oscar/encrypted-text-editor
+    git clone https://github.com/rx3card/encrypted-text-editor
     cd encrypted-text-editor
     ```
 
